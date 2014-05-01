@@ -6,28 +6,17 @@ Created with love for George Mason University
 Use your arrow keys or swipe to combine like tiles in order to reach the President Cabrera tile!
 
 Tile numerical equivalents:
-
-Mason Statue: 2
-
-Mason Athletics Logo: 4
-
-Mason Seal: 8
-
-VSE Logo: 16
-
-School of Law: 32
-
-Green Machine: 64
-
-Basketball: 128
-
-The Patriot Mascot: 256
-
-George Mason: 512
-
-Provost David Wu: 1024
-
-President Angel Cabrera: 2048 
++ Mason Statue: 2
++ Mason Athletics Logo: 4
++ Mason Seal: 8
++ VSE Logo: 16
++ School of Law: 32
++ Green Machine: 64
++ Basketball: 128
++ The Patriot Mascot: 256
++ George Mason: 512
++ Provost David Wu: 1024
++ President Angel Cabrera: 2048 
 
 Made just for fun. [Play it here!](http://mason.gmu.edu/~blane3/patriot-2048)
 
