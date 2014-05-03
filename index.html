@@ -21,6 +21,16 @@
   <meta property="og:image:height" content="600">
 </head>
 <body>
+<div id="fb-root"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
   <div class="container">
     <div class="heading">
       <h1 class="title" style="color: white;">Patriot 2048</h1>
@@ -91,8 +101,9 @@
   
   </div>
   <div class="footer">
-    <div class="fb-like" data-href="http://bridgetlane.github.io/patriot-2048/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
-    <a href="https://twitter.com/share" class="twitter-share-button" data-text="Check out Patriot 2048, a game where you join tiles to reach the President Cabrera tile! #Patriot2048" data-via="only1storm" data-url="http://bit.ly/1n4YtUk" data-counturl="http://bit.ly/1n4YtUk">Tweet</a>
+    <div class="fb-like" data-href="http://mason.gmu.edu/~blane3/patriot-2048/" data-layout="button_count" data-action="recommend" data-show-faces="true" data-share="true"></div>
+    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://mason.gmu.edu/~blane3/patriot-2048/" data-text="Patriot 2048" data-via="only1storm" data-hashtags="Patriot2048">Tweet</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
   </div>
 
   <script src="js/animframe_polyfill.js"></script>
@@ -117,14 +128,5 @@
     </script>
     <!-- END TRACKING -->
     
-  <div id="fb-root"></div>
-  <script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=550840018347573";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </body>
 </html>
