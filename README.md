@@ -1,4 +1,4 @@
-# [Patriot 2048](http://mason.gmu.edu/~blane3/patriot-2048)
+# [Patriot 2048](http://bridgetlane.github.io/patriot-2048)
 My version of Jason LaFerrera's [spin](https://github.com/laferrera/doge2048) on Gabriele Cirulli's code base [here](https://github.com/gabrielecirulli/2048)!
 
 Created with love for George Mason University
@@ -18,7 +18,7 @@ Tile numerical equivalents:
 + Provost David Wu: 1024
 + President Angel Cabrera: 2048 
 
-Made just for fun. [Play it here!](http://mason.gmu.edu/~blane3/patriot-2048)
+Made just for fun. [Play it here!](http://bridgetlane.github.io/patriot-2048)
 
 
 ## License
